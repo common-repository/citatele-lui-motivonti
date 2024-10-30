@@ -1,0 +1,13 @@
+  /**
+   *  Motivonti CSS Style
+   **/
+
+.bq_group { padding: 0px 3px; margin-top: 7px; height: 3px; font-size:12px; }		
+.bq_start { float: left; }
+.bg_end { float: right; }
+.motivonti_fs { font-size: 11px; }
+ul.citate div { font-size: 12px; font-style:normal; line-height: 160%; width: 165px; padding: 0px; }
+#citate-middle { background: url("images/mijloc.png") repeat-y left top; text-align:left; padding:1px 17px; width: 140px; color: black; }
+#citate-top { background: url("images/sus.png") no-repeat left top; width: 170px; height: 19px; }
+#citate-bottom { background: url("images/jos.png") no-repeat left top; width: 170px; height: 146px; }
+       
